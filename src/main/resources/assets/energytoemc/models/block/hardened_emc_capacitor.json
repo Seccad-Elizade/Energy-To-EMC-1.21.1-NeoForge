@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "energytoemc:block/hardened_emc_capacitor_front",
+    "north": "energytoemc:block/hardened_emc_capacitor_front",
+    "south": "energytoemc:block/south_hardened_emc_capacitor_side",
+    "east": "energytoemc:block/east_hardened_emc_capacitor_side",
+    "west": "energytoemc:block/west_hardened_emc_capacitor_side",
+    "up": "energytoemc:block/hardened_emc_capacitor_top",
+    "down": "energytoemc:block/hardened_emc_capacitor_bottom"
+  }
+}

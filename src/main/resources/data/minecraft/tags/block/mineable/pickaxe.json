@@ -1,0 +1,11 @@
+{
+  "values": [
+    "energytoemc:emc_converter",
+    "energytoemc:basic_emc_capacitor",
+    "energytoemc:hardened_emc_capacitor",
+    "energytoemc:reinforced_emc_capacitor",
+    "energytoemc:atomic_emc_capacitor",
+    "energytoemc:emc_pipe",
+    "energytoemc:singularity_emc_capacitor"
+  ]
+}

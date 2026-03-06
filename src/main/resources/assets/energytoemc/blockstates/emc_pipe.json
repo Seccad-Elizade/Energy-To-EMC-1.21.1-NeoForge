@@ -1,0 +1,51 @@
+{
+  "multipart": [
+    {
+      "when": { "axis": "y", "lit": "false" },
+      "apply": { "model": "energytoemc:block/vertical_pipe_core" }
+    },
+    {
+      "when": { "axis": "y", "lit": "true" },
+      "apply": { "model": "energytoemc:block/vertical_pipe_core_lit" }
+    },
+    {
+      "when": { "axis": "x", "lit": "false" },
+      "apply": { "model": "energytoemc:block/emc_pipe_core" }
+    },
+    {
+      "when": { "axis": "x", "lit": "true" },
+      "apply": { "model": "energytoemc:block/emc_pipe_core_lit" }
+    },
+    {
+      "when": { "axis": "z", "lit": "false" },
+      "apply": { "model": "energytoemc:block/emc_pipe_core", "y": 90 }
+    },
+    {
+      "when": { "axis": "z", "lit": "true" },
+      "apply": { "model": "energytoemc:block/emc_pipe_core_lit", "y": 90 }
+    },
+
+
+    { "when": { "north": "true", "lit": "false" }, "apply": { "model": "energytoemc:block/emc_pipe_side_straight" } },
+    { "when": { "north": "true", "lit": "true" },  "apply": { "model": "energytoemc:block/emc_pipe_side_lit" } },
+
+
+    { "when": { "south": "true", "lit": "false" }, "apply": { "model": "energytoemc:block/emc_pipe_side_straight", "y": 180 } },
+    { "when": { "south": "true", "lit": "true" },  "apply": { "model": "energytoemc:block/emc_pipe_side_lit", "y": 180 } },
+
+
+    { "when": { "west": "true", "lit": "false" },  "apply": { "model": "energytoemc:block/emc_pipe_side_left", "y": 270 } },
+    { "when": { "west": "true", "lit": "true" },   "apply": { "model": "energytoemc:block/emc_pipe_side_lit", "y": 270 } },
+
+
+    { "when": { "east": "true", "lit": "false" },  "apply": { "model": "energytoemc:block/emc_pipe_side_right", "y": 90 } },
+    { "when": { "east": "true", "lit": "true" },   "apply": { "model": "energytoemc:block/emc_pipe_side_lit", "y": 90 } },
+
+
+    { "when": { "up": "true", "lit": "false" },    "apply": { "model": "energytoemc:block/emc_pipe_side_straight", "x": 270 } },
+    { "when": { "up": "true", "lit": "true" },     "apply": { "model": "energytoemc:block/emc_pipe_side_lit", "x": 270 } },
+
+    { "when": { "down": "true", "lit": "false" },  "apply": { "model": "energytoemc:block/emc_pipe_side_straight", "x": 90 } },
+    { "when": { "down": "true", "lit": "true" },   "apply": { "model": "energytoemc:block/emc_pipe_side_lit", "x": 90 } }
+  ]
+}

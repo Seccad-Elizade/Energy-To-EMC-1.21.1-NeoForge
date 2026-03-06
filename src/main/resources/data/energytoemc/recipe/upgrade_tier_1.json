@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ICI",
+    "IDI",
+    "III"
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "C": { "item": "minecraft:copper_ingot" },
+    "D": { "item": "minecraft:dirt" }
+  },
+  "result": {
+    "count": 1,
+    "id": "energytoemc:upgrade_tier_1"
+  }
+}

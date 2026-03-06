@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "energytoemc:block/emc_converter_front",
+    "north": "energytoemc:block/emc_converter_front",
+    "south": "energytoemc:block/south_emc_converter_side",
+    "east": "energytoemc:block/east_emc_converter_side",
+    "west": "energytoemc:block/west_emc_converter_side",
+    "up": "energytoemc:block/emc_converter_top",
+    "down": "energytoemc:block/emc_converter_bottom"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "itemGroup.energytoemc": "Energy to EMC Logistics",
+
+  "block.energytoemc.emc_converter": "FE-EMC Conversion Matrix",
+  "block.energytoemc.emc_pipe": "EMC Transference Pipe",
+  "block.energytoemc.basic_emc_capacitor": "Basic EMC Capacitor",
+  "block.energytoemc.hardened_emc_capacitor": "Hardened EMC Capacitor",
+  "block.energytoemc.reinforced_emc_capacitor": "Reinforced EMC Capacitor",
+  "block.energytoemc.atomic_emc_capacitor": "Atomic EMC Capacitor",
+  "block.energytoemc.singularity_emc_capacitor": "Singularity EMC Capacitor",
+
+  "item.energytoemc.wrench": "Universal Logistics Wrench",
+
+  "container.energytoemc.emc_converter": "FE-EMC Conversion Matrix",
+  "container.energytoemc.emc_capacitor": "EMC Storage Array",
+  "container.energytoemc.emc_pipe": "EMC Link Interface",
+
+  "item.energytoemc.upgrade_tier_1": "Efficiency Upgrade: Tier I",
+  "item.energytoemc.upgrade_tier_2": "Efficiency Upgrade: Tier II",
+  "item.energytoemc.upgrade_tier_3": "Efficiency Upgrade: Tier III",
+  "item.energytoemc.upgrade_tier_4": "Efficiency Upgrade: Tier IV",
+  "item.energytoemc.upgrade_tier_5": "Efficiency Upgrade: Tier V",
+
+  "item.energytoemc.pipe_upgrade_1": "Logistics Upgrade: Reinforced",
+  "item.energytoemc.pipe_upgrade_2": "Logistics Upgrade: Signalum",
+  "item.energytoemc.pipe_upgrade_3": "Logistics Upgrade: Ender-Linked",
+  "item.energytoemc.pipe_upgrade_4": "Logistics Upgrade: Flux-Infused",
+  "item.energytoemc.pipe_upgrade_5": "Logistics Upgrade: Omega-Core",
+
+  "tooltip.energytoemc.upgrade_tier_1": "§7Efficiency: §bTier I\n§eProfit: 3x EMC",
+  "tooltip.energytoemc.upgrade_tier_2": "§7Efficiency: §bTier II\n§eProfit: 6x EMC",
+  "tooltip.energytoemc.upgrade_tier_3": "§7Efficiency: §bTier III\n§eProfit: 9x EMC",
+  "tooltip.energytoemc.upgrade_tier_4": "§7Efficiency: §bTier IV\n§eProfit: 12x EMC",
+  "tooltip.energytoemc.upgrade_tier_5": "§7Efficiency: §bTier V\n§eProfit: 15x EMC",
+
+  "tooltip.energytoemc.max_storage": "Max Storage Capacity",
+  "message.energytoemc.wrench_toggle": "Pipe connection %s on %s side"
+}

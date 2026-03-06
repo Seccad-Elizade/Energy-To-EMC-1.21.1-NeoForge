@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "energytoemc:block/atomic_emc_capacitor" }
+  }
+}

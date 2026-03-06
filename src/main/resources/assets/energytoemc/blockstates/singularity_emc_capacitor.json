@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "energytoemc:block/singularity_emc_capacitor" }
+  }
+}

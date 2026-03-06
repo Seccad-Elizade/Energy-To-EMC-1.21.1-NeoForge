@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " G ",
+    "GPG",
+    " G "
+  ],
+  "key": {
+    "G": { "item": "minecraft:gold_ingot" },
+    "P": { "item": "energytoemc:pipe_upgrade_3" }
+  },
+  "result": {
+    "count": 1,
+    "id": "energytoemc:pipe_upgrade_4"
+  }
+}

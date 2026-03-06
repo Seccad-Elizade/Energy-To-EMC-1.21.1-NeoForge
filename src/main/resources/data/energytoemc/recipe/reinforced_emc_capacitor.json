@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CDC",
+    "DPD",
+    "CDC"
+  ],
+  "key": {
+    "C": { "item": "minecraft:copper_ingot" },
+    "D": { "item": "minecraft:diamond" },
+    "P": { "item": "energytoemc:hardened_emc_capacitor" }
+  },
+  "result": {
+    "count": 1,
+    "id": "energytoemc:reinforced_emc_capacitor"
+  }
+}

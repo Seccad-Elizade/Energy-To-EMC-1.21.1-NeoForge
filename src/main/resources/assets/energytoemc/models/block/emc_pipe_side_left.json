@@ -1,0 +1,7 @@
+{
+  "parent": "energytoemc:block/emc_pipe_arm_template",
+  "textures": {
+    "tex": "energytoemc:block/pipe_left",
+    "particle": "energytoemc:block/pipe_left"
+  }
+}

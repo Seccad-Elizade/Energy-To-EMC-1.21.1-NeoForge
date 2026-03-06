@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LCL",
+    "IBI",
+    "LIL"
+  ],
+  "key": {
+    "L": { "item": "minecraft:lapis_lazuli" },
+    "C": { "item": "minecraft:chest" },
+    "I": { "item": "minecraft:iron_ingot" },
+    "B": { "item": "minecraft:bucket" }
+  },
+  "result": {
+    "count": 1,
+    "id": "energytoemc:basic_emc_capacitor"
+  }
+}

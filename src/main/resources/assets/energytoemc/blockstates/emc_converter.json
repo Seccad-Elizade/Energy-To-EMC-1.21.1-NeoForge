@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "energytoemc:block/emc_converter" },
+    "facing=south": { "model": "energytoemc:block/emc_converter", "y": 180 },
+    "facing=east":  { "model": "energytoemc:block/emc_converter", "y": 90 },
+    "facing=west":  { "model": "energytoemc:block/emc_converter", "y": 270 }
+  }
+}

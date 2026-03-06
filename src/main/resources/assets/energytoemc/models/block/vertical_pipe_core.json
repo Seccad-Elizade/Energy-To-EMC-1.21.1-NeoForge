@@ -1,0 +1,21 @@
+{
+  "parent": "block/block",
+  "textures": {
+    "side": "energytoemc:block/vertical_pipe_side",
+    "end": "energytoemc:block/vertical_pipe_side",
+    "particle": "energytoemc:block/vertical_pipe_top"
+  },
+  "elements": [
+    {
+      "from": [5, 5, 5], "to": [11, 11, 11],
+      "faces": {
+        "north": {"uv": [0, 0, 8, 8], "texture": "#side"},
+        "south": {"uv": [0, 0, 8, 8], "texture": "#side"},
+        "east":  {"uv": [0, 0, 8, 8], "texture": "#side"},
+        "west":  {"uv": [0, 0, 8, 8], "texture": "#side"},
+        "up":    {"uv": [0, 0, 8, 8], "texture": "#end"},
+        "down":  {"uv": [0, 0, 8, 8], "texture": "#end"}
+      }
+    }
+  ]
+}

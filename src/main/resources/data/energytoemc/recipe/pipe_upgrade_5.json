@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " N ",
+    "DPD",
+    " D "
+  ],
+  "key": {
+    "N": { "item": "minecraft:netherite_ingot" },
+    "D": { "item": "minecraft:diamond" },
+    "P": { "item": "energytoemc:pipe_upgrade_4" }
+  },
+  "result": {
+    "count": 1,
+    "id": "energytoemc:pipe_upgrade_5"
+  }
+}

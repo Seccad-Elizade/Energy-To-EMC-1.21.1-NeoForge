@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " E ",
+    "EPE",
+    " E "
+  ],
+  "key": {
+    "E": { "item": "minecraft:emerald" },
+    "P": { "item": "energytoemc:upgrade_tier_3" }
+  },
+  "result": {
+    "count": 1,
+    "id": "energytoemc:upgrade_tier_4"
+  }
+}

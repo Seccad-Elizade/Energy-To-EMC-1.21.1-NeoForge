@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " D ",
+    "DPD",
+    " D "
+  ],
+  "key": {
+    "D": { "item": "minecraft:diamond" },
+    "P": { "item": "energytoemc:upgrade_tier_2" }
+  },
+  "result": {
+    "count": 1,
+    "id": "energytoemc:upgrade_tier_3"
+  }
+}

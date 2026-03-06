@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DPD",
+    "DDD"
+  ],
+  "key": {
+    "D": { "item": "minecraft:diamond" },
+    "P": { "item": "energytoemc:reinforced_emc_capacitor" }
+  },
+  "result": {
+    "count": 1,
+    "id": "energytoemc:atomic_emc_capacitor"
+  }
+}

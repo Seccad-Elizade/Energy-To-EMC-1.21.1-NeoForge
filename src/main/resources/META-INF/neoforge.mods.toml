@@ -1,0 +1,35 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId="energytoemc"
+version="1.0.0"
+displayName="Energy To EMC"
+displayURL="https://github.com/Seccad-Elizade/Energy-To-EMC-1.21.1-NeoForge"
+authors="Seccad Elizade"
+description='''
+A high-performance bridge between Forge Energy and ProjectE.
+Features advanced converters, multi-tier capacitors, and high-speed logistics.
+'''
+
+[[dependencies.energytoemc]]
+modId="neoforge"
+type="required"
+versionRange="[21,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.energytoemc]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.22)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.energytoemc]]
+modId="projecte"
+type="required"
+versionRange="[1.0.0,)"
+ordering="AFTER"
+side="BOTH"

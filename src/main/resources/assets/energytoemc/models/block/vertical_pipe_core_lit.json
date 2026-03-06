@@ -1,0 +1,21 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "tex": "energytoemc:block/purple_pipe_front",
+    "particle": "energytoemc:block/purple_pipe_front"
+  },
+  "elements": [
+    {
+      "from": [5, 5, 5],
+      "to": [11, 11, 11],
+      "faces": {
+        "north": { "uv": [0, 0, 8, 8], "texture": "#tex", "rotation": 90 },
+        "south": { "uv": [0, 0, 8, 8], "texture": "#tex", "rotation": 90 },
+        "east":  { "uv": [0, 0, 8, 8], "texture": "#tex", "rotation": 90 },
+        "west":  { "uv": [0, 0, 8, 8], "texture": "#tex", "rotation": 90 },
+        "up":    { "uv": [0, 0, 8, 8], "texture": "#tex", "rotation": 90 },
+        "down":  { "uv": [0, 0, 8, 8], "texture": "#tex", "rotation": 90 }
+      }
+    }
+  ]
+}
